@@ -6,9 +6,9 @@ from typing import Dict
 from fastapi import FastAPI, UploadFile, File, Depends, Form
 from fastapi.middleware.cors import CORSMiddleware
 
-from Backend.auth import router as auth_router, get_current_user, User
-from Backend.inference import predict_file
-from Backend.gemini import router as gemini_router
+from auth import router as auth_router, get_current_user, User
+from inference import predict_file
+from gemini import router as gemini_router
 
 app = FastAPI(title="Alzheimer Voice Lab API")
 
