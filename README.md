@@ -43,5 +43,5 @@ The system follows a 3-layer architecture:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/AbhiNav8084/Early-Alzheimer-Prediction-System.git](https://github.com/AbhiNav8084/Early-Alzheimer-Prediction-System.git)
+git clone [https://github.com/Abishek470/Early-Alzheimer-Prediction-System.git](https://github.com/Abishek470/Early-Alzheimer-Prediction-System.git)
 cd Early-Alzheimer-Prediction-System
